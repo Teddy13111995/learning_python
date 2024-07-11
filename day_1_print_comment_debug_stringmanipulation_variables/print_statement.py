@@ -44,6 +44,15 @@ def band_name_generator():
     # 5. Make sure the input cursor shows up on a new line
     pass
 
+def string_manipulation():
+    """ \n - is used for creating a new line
+        + - is used for concatenating two strings
+        tab is used to add indentation
+    """
+
+    pass
+
+
 if __name__ == "__main__":
     # hello_world()
     # python_input()
