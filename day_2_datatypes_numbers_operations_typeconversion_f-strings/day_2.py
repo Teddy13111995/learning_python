@@ -16,13 +16,28 @@ def datatypes_python():
     print(123_456_789)
     pass
 
+
 def typeerror_python():
     """
+    type() - identifies the variable's data type.
+    type casting - converting one data type to another.
 
     :return:
     """
     pass
 
+
+def mathematical_operations():
+    """
+    + - add
+    - - subtract
+    * - multiply
+    / - divide with floating point
+    //- floor division
+    ** - exponent
+    priority -> PEMDASLR(Parentheses, Exponents, Multiplication, Division, Addition, Subtraction, Left, Right)
+    """
+    pass
 
 
 if __name__ == "__main__":
